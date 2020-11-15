@@ -1,0 +1,7 @@
+C:\Users\ststoyan\source\repos\Complete C# Masterclass\CompleteMasterclass.HelloWorld\CompleteMasterclass.HelloWorld\bin\Debug\CompleteMasterclass.HelloWorld.exe.config
+C:\Users\ststoyan\source\repos\Complete C# Masterclass\CompleteMasterclass.HelloWorld\CompleteMasterclass.HelloWorld\bin\Debug\CompleteMasterclass.HelloWorld.exe
+C:\Users\ststoyan\source\repos\Complete C# Masterclass\CompleteMasterclass.HelloWorld\CompleteMasterclass.HelloWorld\bin\Debug\CompleteMasterclass.HelloWorld.pdb
+C:\Users\ststoyan\source\repos\Complete C# Masterclass\CompleteMasterclass.HelloWorld\CompleteMasterclass.HelloWorld\obj\Debug\CompleteMasterclass.HelloWorld.csprojAssemblyReference.cache
+C:\Users\ststoyan\source\repos\Complete C# Masterclass\CompleteMasterclass.HelloWorld\CompleteMasterclass.HelloWorld\obj\Debug\CompleteMasterclass.HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\ststoyan\source\repos\Complete C# Masterclass\CompleteMasterclass.HelloWorld\CompleteMasterclass.HelloWorld\obj\Debug\CompleteMasterclass.HelloWorld.exe
+C:\Users\ststoyan\source\repos\Complete C# Masterclass\CompleteMasterclass.HelloWorld\CompleteMasterclass.HelloWorld\obj\Debug\CompleteMasterclass.HelloWorld.pdb
